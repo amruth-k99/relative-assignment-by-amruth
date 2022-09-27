@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/relative-assignment-by-amruth/static/css/main.92712092.css",
+    "main.js": "/relative-assignment-by-amruth/static/js/main.a2ae0e22.js",
+    "static/js/787.5cd7dbfd.chunk.js": "/relative-assignment-by-amruth/static/js/787.5cd7dbfd.chunk.js",
+    "static/media/shiba.svg": "/relative-assignment-by-amruth/static/media/shiba.9558e81590e373054c5f2db0ab689727.svg",
+    "static/media/bitcoin.svg": "/relative-assignment-by-amruth/static/media/bitcoin.972bee095b7c7a2894835f4af2cb424b.svg",
+    "static/media/solana.svg": "/relative-assignment-by-amruth/static/media/solana.02b47c207d45a458fdb03a338ace293e.svg",
+    "static/media/binance.svg": "/relative-assignment-by-amruth/static/media/binance.e76909b6bf3534d492c0f9add643cb8a.svg",
+    "index.html": "/relative-assignment-by-amruth/index.html",
+    "static/media/ethereum.svg": "/relative-assignment-by-amruth/static/media/ethereum.6adbd4d2e2e1609702cd3c5082bff1ec.svg",
+    "static/media/activity.svg": "/relative-assignment-by-amruth/static/media/activity.09a00dba24ead8fa067af98827ec5c74.svg",
+    "main.92712092.css.map": "/relative-assignment-by-amruth/static/css/main.92712092.css.map",
+    "main.a2ae0e22.js.map": "/relative-assignment-by-amruth/static/js/main.a2ae0e22.js.map",
+    "787.5cd7dbfd.chunk.js.map": "/relative-assignment-by-amruth/static/js/787.5cd7dbfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92712092.css",
+    "static/js/main.a2ae0e22.js"
+  ]
+}
